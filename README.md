@@ -8,17 +8,22 @@ These note codes are displayed in the **status bar** on desktop and in the **not
 
 The **Search for Note Codes** action will let you look up note codes in a quick switcher.
 
+<div>
+<img src="https://github.com/SilverEzhik/obsidian-note-codes/raw/main/docs/status.png?raw=true" alt="Note code in the status bar" width="500">
+<img src="https://github.com/SilverEzhik/obsidian-note-codes/raw/main/docs/search.png?raw=true" alt="Note code search" width="500">
+</div>
+
 There is a **protocol handler** for quickly opening notes by their note codes:
 
 ```
-obsidian://note-code/open?code=XX-XX
+obsidian://note-codes/open?code=XX-XX
 ```
 
 ## Command Palette Actions
 
 -   **Search for note codes**: Opens the search modal to find notes by their codes
 -   **Copy note code**: Copies the current note's code to clipboard
--   **Copy note code URL**: Copies the `obsidian://note-code/open` URL for the current note
+-   **Copy note code URL**: Copies the `obsidian://note-codes/open` URL for the current note
 
 ## What's in a note code?
 
