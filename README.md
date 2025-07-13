@@ -9,8 +9,8 @@ These note codes are displayed in the **status bar** on desktop and in the **not
 The **Search for Note Codes** action will let you look up note codes in a quick switcher.
 
 <div>
-<img src="https://github.com/SilverEzhik/obsidian-note-codes/raw/main/docs/status.png?raw=true" alt="Note code in the status bar" width="500">
-<img src="https://github.com/SilverEzhik/obsidian-note-codes/raw/main/docs/search.png?raw=true" alt="Note code search" width="500">
+<img src="https://github.com/SilverEzhik/obsidian-note-codes/raw/main/docs/status.png?raw=true" alt="Note code in the status bar" width="400">
+<img src="https://github.com/SilverEzhik/obsidian-note-codes/raw/main/docs/search.png?raw=true" alt="Note code search" width="400">
 </div>
 
 There is a **protocol handler** for quickly opening notes by their note codes:
