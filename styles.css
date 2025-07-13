@@ -6,3 +6,14 @@ available in the app when your plugin is enabled.
 If your plugin does not need CSS, delete this file.
 
 */
+
+.note-code,
+input.note-code {
+    font-family: var(--font-monospace);
+    white-space: nowrap;
+}
+
+.workspace-drawer-header-name .note-code {
+    margin-inline-start: auto;
+    align-self: center;
+}
