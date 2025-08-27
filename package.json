@@ -1,6 +1,6 @@
 {
 	"name": "note-codes",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Reference your notes from anywhere with simple 4-character codes.",
 	"main": "main.js",
 	"scripts": {

@@ -151,21 +151,21 @@ export default class NoteCodes extends Plugin {
 		const menu = new Menu();
 		menu.addItem(item =>
 			item
-				.setTitle("Copy Note Code")
+				.setTitle("Copy note code")
 				.setIcon("binary")
 				.onClick(() => this.copyNoteCode()),
 		);
 
 		menu.addItem(item =>
 			item
-				.setTitle("Copy Note Code URL")
+				.setTitle("Copy note code URL")
 				.setIcon("link")
 				.onClick(() => this.copyNoteCodeURL()),
 		);
 
 		menu.addItem(item =>
 			item
-				.setTitle("Search Note Codes")
+				.setTitle("Search note codes")
 				.setIcon("search")
 				.onClick(() => this.openSearchModal()),
 		);
